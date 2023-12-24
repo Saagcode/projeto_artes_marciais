@@ -1,0 +1,23 @@
+:root {
+  font-family: 'Russo One', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-appearance: none;
+
+  --primary: #000000;
+  --secondary: #ffbb00;
+  --terceary: #e0e3e7;
+  --white: #fff
+}
+
+*{
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0px; 
+}
+
